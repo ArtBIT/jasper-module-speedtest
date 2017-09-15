@@ -3,7 +3,7 @@ Jasper-Module-Speedtest
 
 Jasper Speedtest Module which allows you to run speedtest.net tests and sends you the report to your email.
 
-##Steps to install Speedtest Module
+## Steps to install Speedtest Module
 
 * Install the `speedtest-cli` package via pip:
 ```
@@ -25,7 +25,7 @@ speedtest:
 ```
 sudo reboot
 ```
-##Congrats, JASPER Speedtest Module is now installed and ready for use.
+## Congrats, JASPER Speedtest Module is now installed and ready for use.
 Here are some examples:
 ```
 YOU: Speedtest
